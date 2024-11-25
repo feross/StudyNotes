@@ -45,7 +45,7 @@
     "lorem-ipsum": "^2.0.3",
     "mailchimp-api": "^2.0.7",
     "md5": "^2.3.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "moment": "^2.29.1",
     "mongoose": "^5.11.4",
     "mongoose-validator": "^2.1.0",
