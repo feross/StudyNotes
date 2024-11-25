@@ -54,7 +54,7 @@
     "once": "^1.4.0",
     "passport": "^0.4.1",
     "passport-local": "1.0.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "rollbar": "^2.19.4",
     "run-auto": "^2.0.4",
     "run-parallel": "^1.1.10",
